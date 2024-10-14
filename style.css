@@ -56,3 +56,8 @@ body {
   background-color: #b079b3;
   color: white;
 }
+.lists{
+  display:flex;
+  justify-content:space-around; 
+  align-items:flex-start;
+}
